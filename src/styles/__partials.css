@@ -1,0 +1,14 @@
+/* Importing Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* Declaring Variables */
+:root {
+  /* Colors */
+  --primary: #2b3467;
+  --secondary: #bad7e9;
+  --light: #fcffe7;
+  --pink: #eb455f;
+
+  /* Fonts */
+  --font-main: "Poppins";
+}
